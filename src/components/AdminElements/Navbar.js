@@ -140,7 +140,7 @@ const Navbar = () => {
                       </div>
                       <div className="popup-footer-btn">
                         <button
-                          onclick="logout()"
+                          onClick="logout()"
                           className="geex-content__header__popup__footer__link"
                         >
                           Logout
