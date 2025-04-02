@@ -30,7 +30,7 @@ const Navbar = () => {
             <div className="col-lg-12">
               <div className="header-three-area">
                 <Link href="/" className="logo-area">
-                  <Image
+                  <img
                     src="assets/images/logo/07.svg"
                     alt="logo"
                     loading="lazy"
